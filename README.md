@@ -43,5 +43,5 @@ for that.
 #### Questions or any suggestion
 
 Feel free to send me an email: natnaieleasrat@gmail.com
-Telegram: https://t.me/Naty888
+Telegram: https://t.me/Natty888
 Github: https://github.com/naty888
