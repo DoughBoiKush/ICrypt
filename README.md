@@ -13,10 +13,10 @@ It encrypts files in specified folder
 
 #### Features of ICrypt
 
- Uses randomly generated long password meaning no one knows the password
+ It uses randomly generated long password meaning no one knows the password
  and is impossible to crack the password.Every time you run ICrypt it generates 
- new passwords.Overwrites the file in other words it gets the size of the file to be 
- encrypted and it generate new file with the same name and size.
+ new passwords.It also overwrites the file in other words it gets the size of the
+ file to be encrypted and it generate new file with the same name and size.
 
 #### Which OS does ICrypt targets?
 
