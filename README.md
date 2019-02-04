@@ -25,9 +25,9 @@ compile it to windows executable.
 
 #### Requirments
 
-ICrypt is written in python 3.6,so basically you need python3 to use it
-pyAesCrypt is also required you can install it using <pip3 install pyAesCrypt> 
-or <pip3 install -r requirement.txt>
+ICrypt is written in python 3.6,so basically you need python3 to use it.
+pyAesCrypt is also required you can install it using "pip3 install pyAesCrypt" 
+or "pip3 install -r requirement.txt"
 
 #### LEGAL DISCLAIMER
 
